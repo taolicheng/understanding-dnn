@@ -12,3 +12,5 @@
 # Conferences
 
 * [NeurIPS2018](https://nips.cc/Conferences/2018)
+  * *Workshop* [Causal Learning](https://sites.google.com/view/nips2018causallearning/home)
+  * *Workshop* [Interpretability and Robustness in Audio, Speech, and Language](https://irasl.gitlab.io/)
