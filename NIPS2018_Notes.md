@@ -8,3 +8,4 @@
   * Probabilistic extropolation of learning curve
   * Multi-fidelity optimization
  
+ https://www.automl.org/
