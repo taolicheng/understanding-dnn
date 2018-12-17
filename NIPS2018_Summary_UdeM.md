@@ -15,7 +15,22 @@
 - Workshops
 
 ## Tutorials
+- Adversarial Robustness
+- Unsupervised Learning
+- Automatic ML
+- Statistical Learning
 
 ## Highlights
+- Michael Levin: Bioelectric Computation
+
+
+## Excerpts of Highlight Presentations
+~ 20
+
+## Workshop Highlights
+
+
+## NeurIPS2018 4 LHC Physics
+
 
 ## NeurIPS2018 Wisdom
