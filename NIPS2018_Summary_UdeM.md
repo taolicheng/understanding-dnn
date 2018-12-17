@@ -1,5 +1,11 @@
 # NeurIPS 2018 Summary Report
 
+* [Overview and Statistics](#overview-and-statistics)
+* [Conference Map](#conference-map)
+* [Tutorials](#tutorials)
+* [Highlights](#highlights)
+* [Wisdom](#neurIPS2018-wisdom)
+
 ## Overview and Statistics
 
 ![](figs/NIPS2018/statistics_01.png)
