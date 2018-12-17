@@ -29,6 +29,7 @@
 
 * Algorithms
    * [ConvRNN](https://neuroailab.github.io/convrnns/files/convrnns-nips-2018-poster.pdf)
+   * [Deep Anomaly Detection with Geometic Transformations](https://drive.google.com/file/d/1ZpoC35XzoAWtxg1jQbGBbhyTkuqvcyqh/view)
 * Deep Learning and Applications
 * RL
 * Optimization theory
