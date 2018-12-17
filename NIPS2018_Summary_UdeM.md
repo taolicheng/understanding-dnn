@@ -25,7 +25,7 @@
 
 
 ## Excerpts of Highlight Presentations
-~ 30
+~ 30/15/7
 
 * Algorithms
    * [ConvRNN](https://neuroailab.github.io/convrnns/files/convrnns-nips-2018-poster.pdf)
