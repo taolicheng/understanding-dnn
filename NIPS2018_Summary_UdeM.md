@@ -28,7 +28,7 @@
 ~ 30
 
 * Algorithms
- * ![](https://neuroailab.github.io/convrnns/files/convrnns-nips-2018-poster.pdf)
+ * [ConvRNN](https://neuroailab.github.io/convrnns/files/convrnns-nips-2018-poster.pdf)
 * Deep Learning and Applications
 * RL
 * Optimization theory
