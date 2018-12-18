@@ -8,11 +8,11 @@
 
 ## Overview and Statistics
 
+![](figs/NIPS2018/statistics_00.png)
+![](figs/NIPS2018/statistics_00'.png)
 ![](figs/NIPS2018/statistics_01.png)
 ![](figs/NIPS2018/statistics_02.png)
 ![](figs/NIPS2018/statistics_03.png)
-
-![](figs/NIPS2018/wordcloud_0.png)
 
 ## Conference Map
 
@@ -23,6 +23,8 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 - Posters and Demonstrations
 - Sponsor Demonstrations
 - **Workshops**
+
+![](figs/NIPS2018/wordcloud_0.png)
 
 ## Tutorials
 - Adversarial Robustness [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/adversarial_ml_slides_parts_1_4.pdf)
