@@ -26,10 +26,7 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 
 ![](figs/NIPS2018/wordcloud_0.png)
 
-2018 Trends: ![](https://placehold.it/150/ffffff/c5f015?text=Complex DL applications)
-![](https://placehold.it/150/ffffff/c5f015?text=Reinforcement Learning)
-![](https://placehold.it/150/ffffff/c5f015?text=Causal Learning)
-![](https://placehold.it/150/ffffff/c5f015?text=Human-AI)
+:large_blue_circle: 2018 Trends: Complex DL applications, Reinforcement Learning, Causal Learning, Human and AI (human in the loop)
 
 ## Tutorials
 
