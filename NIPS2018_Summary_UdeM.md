@@ -38,7 +38,7 @@
    * Modelling and unsupervised learning of symmetric deformable object categories, [pdf](http://papers.nips.cc/paper/8040-modelling-and-unsupervised-learning-of-symmetric-deformable-object-categories.pdf)
    * Learning Invariances using the Marginal Likelihood, [pdf](http://papers.nips.cc/paper/8199-learning-invariances-using-the-marginal-likelihood.pdf)
    * [Training deep learning based denoisers without ground truth data](https://drive.google.com/file/d/1yew0KcVrW4A8QPYgsMe3elCAAszhBXWs/view)
-   * [Deep Anomaly Detection with Geometic Transformations](https://drive.google.com/file/d/1ZpoC35XzoAWtxg1jQbGBbhyTkuqvcyqh/view)
+   * [**Deep Anomaly Detection with Geometic Transformations**](https://drive.google.com/file/d/1ZpoC35XzoAWtxg1jQbGBbhyTkuqvcyqh/view)
    * [Legendre decomposition for tensors](https://mahito.info/files/Sugiyama_NeurIPS2018_poster.pdf)
    * Flexible and accurate inference and learning for deep generative models, [pdf](http://papers.nips.cc/paper/7671-flexible-and-accurate-inference-and-learning-for-deep-generative-models.pdf)
 
@@ -78,6 +78,8 @@
 * Mike Schuster, “Learning from the move to neural machine translation at Google”
 
 ## NeurIPS2018 4 LHC Physics
+
+### Anomaly Detection
 
 
 ## NeurIPS2018 Wisdom
