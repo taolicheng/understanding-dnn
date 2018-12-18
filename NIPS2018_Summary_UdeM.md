@@ -30,6 +30,8 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 -----
 ![](figs/NIPS2018/tuto_robust_0'.png)
 -----
+![](figs/NIPS2018/tuto_robust_0''.png)
+-----
 ![](figs/NIPS2018/tuto_robust_1.png)
 -----
 ![](figs/NIPS2018/tuto_robust_2.png)
@@ -38,8 +40,21 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 -----
 ![](figs/NIPS2018/tuto_robust_4.png)
 
+- Unsupervised Learning [[slides1](https://media.neurips.cc/Conferences/NIPS2018/Slides/Deep_Unsupervised_Learning.pdf), [slides2](https://media.neurips.cc/Conferences/NIPS2018/Slides/graves-deeplearning2.pdf)]
 
-- Unsupervised Learning
+![](figs/NIPS2018/tuto_unsupervised_1.png)
+![](figs/NIPS2018/tuto_unsupervised_2.png)
+![](figs/NIPS2018/tuto_unsupervised_3.png)
+![](figs/NIPS2018/tuto_unsupervised_4.png)
+![](figs/NIPS2018/tuto_unsupervised_5.png)
+![](figs/NIPS2018/tuto_unsupervised_6.png)
+![](figs/NIPS2018/tuto_unsupervised_7.png)
+![](figs/NIPS2018/tuto_unsupervised_8.png)
+![](figs/NIPS2018/tuto_unsupervised_9.png)
+![](figs/NIPS2018/tuto_unsupervised_10.png)
+![](figs/NIPS2018/tuto_unsupervised_11.png)
+
+
 
 - Automatic ML
 
