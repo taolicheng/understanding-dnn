@@ -10,9 +10,10 @@
 
 ![](figs/NIPS2018/statistics_00.png)
 ![](figs/NIPS2018/statistics_00'.png)
-![](figs/NIPS2018/statistics_01.png)
 ![](figs/NIPS2018/statistics_02.png)
 ![](figs/NIPS2018/statistics_03.png)
+![](figs/NIPS2018/statistics_01.png)
+
 
 ## Conference Map
 
