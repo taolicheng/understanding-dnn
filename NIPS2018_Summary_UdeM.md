@@ -60,8 +60,6 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 - Statistical Learning
 
 
-
-
 ## Highlights
 - Michael Levin: Bioelectric Computation
 
@@ -89,10 +87,10 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
    * [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](http://liangchiehchen.com/doc/DPC_NIPS2018_Poster.pdf)
    * [Learning to Navigate in Cities Without a Map](https://drive.google.com/file/d/10iifFITIUGYm2TP84sH3C_558-7qx8lI/view)
    * [Reducing Network Agnostophobia](http://vast.uccs.edu/~adhamija/Papers/Reducing_Network_Agnostophobia/poster.pdf)
-   * The Sparse Manifold Transform, [pdf](http://papers.nips.cc/paper/8251-the-sparse-manifold-transform.pdf)
+   * **The Sparse Manifold Transform**, [pdf](http://papers.nips.cc/paper/8251-the-sparse-manifold-transform.pdf)
 
 * RL
-   * Recurrent World Models Facilitate Policy Evolution, [pdf](http://papers.nips.cc/paper/7512-recurrent-world-models-facilitate-policy-evolution.pdf) https://worldmodels.github.io
+   * **Recurrent World Models Facilitate Policy Evolution**, [pdf](http://papers.nips.cc/paper/7512-recurrent-world-models-facilitate-policy-evolution.pdf) https://worldmodels.github.io
    * [Learning to Play with Intrinsically-Motivated Self-Aware Agents](https://neuroailab.github.io/curiosity/files/learning-to-play-nips-2018-poster.pdf)
    * Breaking the Curse of Horizon: Infinite-Horizon Off-Policy Estimation, [slides](https://nips.cc/media/Slides/nips/2018/220cd(05-15-30)-05-15-30-12655-Breaking_the_Cu.pdf)
    * [Playing hard exploration games by watching YouTube](https://drive.google.com/file/d/17rSlj_GdqfSUi1AqORWc7Sp0QKmo3Jd-/view)
