@@ -1,4 +1,4 @@
-# NeurIPS 2018 Summary Report
+# [NeurIPS 2018](https://nips.cc) Summary Report
 
 * [Overview and Statistics](#overview-and-statistics)
 * [Conference Map](#conference-map)
@@ -14,21 +14,34 @@
 
 ![](figs/NIPS2018/wordcloud_0.png)
 
-
-
 ## Conference Map
 
-- Tutorials
-- Talks: Invited, Oral, Spotlight
+Conference Schedule: https://nips.cc/Conferences/2018/Schedule
+
+- **Tutorials**
+- Talks: **Invited**, **Oral**, Spotlight
 - Posters and Demonstrations
 - Sponsor Demonstrations
-- Workshops
+- **Workshops**
 
 ## Tutorials
-- Adversarial Robustness
+- Adversarial Robustness [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/adversarial_ml_slides_parts_1_4.pdf)
+![](figs/NIPS2018/tuto_robust_0.png)
+![](figs/NIPS2018/tuto_robust_1.png)
+![](figs/NIPS2018/tuto_robust_2.png)
+![](figs/NIPS2018/tuto_robust_3.png)
+![](figs/NIPS2018/tuto_robust_4.png)
+
+
 - Unsupervised Learning
+
 - Automatic ML
+
+
 - Statistical Learning
+
+
+
 
 ## Highlights
 - Michael Levin: Bioelectric Computation
@@ -38,7 +51,7 @@
 ~ 30/15/7
 
 * Algorithms
-   * [ConvRNN](https://neuroailab.github.io/convrnns/files/convrnns-nips-2018-poster.pdf)
+   * [**ConvRNN**](https://neuroailab.github.io/convrnns/files/convrnns-nips-2018-poster.pdf)
    * Modelling and unsupervised learning of symmetric deformable object categories, [pdf](http://papers.nips.cc/paper/8040-modelling-and-unsupervised-learning-of-symmetric-deformable-object-categories.pdf)
    * Learning Invariances using the Marginal Likelihood, [pdf](http://papers.nips.cc/paper/8199-learning-invariances-using-the-marginal-likelihood.pdf)
    * [Training deep learning based denoisers without ground truth data](https://drive.google.com/file/d/1yew0KcVrW4A8QPYgsMe3elCAAszhBXWs/view)
@@ -51,7 +64,7 @@
    * [Understanding batch normalization](https://drive.google.com/file/d/1hpt18ohp9BYBPOU3Qi5tky27bDIaAbJ-/view)
    * [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](https://colinraffel.com/posters/nips2018realistic.pdf)
    * generalisation of structural knowledge in the hippocampal entorhinal system, [pdf](http://papers.nips.cc/paper/8068-generalisation-of-structural-knowledge-in-the-hippocampal-entorhinal-system.pdf)
-   * [Learning Hierarchical Semantic Image Manipulation through Structured Representations](https://arxiv.org/pdf/1808.07535.pdf)
+   * [**Learning Hierarchical Semantic Image Manipulation through Structured Representations**](https://arxiv.org/pdf/1808.07535.pdf)
    * Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding, [pdf](http://papers.nips.cc/paper/7381-neural-symbolic-vqa-disentangling-reasoning-from-vision-and-language-understanding.pdf)
    * Layer-Wise Coordination between Encoder and Decoder for Neural Machine Translation, [pdf](http://papers.nips.cc/paper/8019-layer-wise-coordination-between-encoder-and-decoder-for-neural-machine-translation.pdf)
    * [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](http://liangchiehchen.com/doc/DPC_NIPS2018_Poster.pdf)
@@ -87,3 +100,6 @@
 
 
 ## NeurIPS2018 Wisdom
+
+> “Machine Learning can make pigs fly” – Aleksander Madry
+
