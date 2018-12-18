@@ -14,7 +14,6 @@
 
 ![](figs/NIPS2018/wordcloud_0.png)
 
-
 ## Conference Map
 
 Conference Schedule: https://nips.cc/Conferences/2018/Schedule
@@ -26,7 +25,7 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 - **Workshops**
 
 ## Tutorials
-- Adversarial Robustness
+- Adversarial Robustness [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/adversarial_ml_slides_parts_1_4.pdf)
 ![](figs/NIPS2018/tuto_robust_0.png)
 
 - Unsupervised Learning
@@ -96,3 +95,6 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 
 
 ## NeurIPS2018 Wisdom
+
+>“Machine Learning makes pigs fly” – J. Zico Kolter
+
