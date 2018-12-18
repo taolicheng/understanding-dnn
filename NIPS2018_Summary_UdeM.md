@@ -27,6 +27,11 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 ![](figs/NIPS2018/wordcloud_0.png)
 
 ## Tutorials
+
+General trends **keywords**:  ![](https://placehold.it/150/ffffff/c5f015?text=Rubustness)  ![](https://placehold.it/150/ffffff/c5f015?text=Bayesian)  ![](https://placehold.it/150/ffffff/c5f015?text=Unsupervised) ![](https://placehold.it/150/ffffff/c5f015?text=Automatic)
+
+<br><br>
+
 - Adversarial Robustness [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/adversarial_ml_slides_parts_1_4.pdf)
 ![](figs/NIPS2018/tuto_robust_0.png)
 -----
@@ -42,6 +47,8 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 -----
 ![](figs/NIPS2018/tuto_robust_4.png)
 
+<br><br>
+
 - Unsupervised Learning [[slides1](https://media.neurips.cc/Conferences/NIPS2018/Slides/Deep_Unsupervised_Learning.pdf), [slides2](https://media.neurips.cc/Conferences/NIPS2018/Slides/graves-deeplearning2.pdf)], [[video](https://www.youtube.com/watch?v=rjZCjosEFpI)]
 
 ![](figs/NIPS2018/tuto_unsupervised_1.png)
@@ -56,6 +63,8 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 ![](figs/NIPS2018/tuto_unsupervised_10.png)
 ![](figs/NIPS2018/tuto_unsupervised_11.png)
 
+<br><br>
+
 - Automatic ML [[video](https://www.youtube.com/watch?v=0eBR8a4MQ30), [website](https://www.automl.org/)]
 
 
@@ -63,7 +72,10 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 
 
 ## Highlights
-- Michael Levin: Bioelectric Computation
+
+
+- Michael Levin: **What Bodies Think About: Bioelectric Computation Outside the Nervous System, Primitive Cognition, and Synthetic Morphology**, [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/Levin_bioelectric_computation.pdf)
+- Joelle Pineau: **Reproducible, Reusable, and Robust Reinforcement Learning**, [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/jpineau-NeurIPS-dec18-fb.pdf)
 
 
 ## Excerpts of Highlight Presentations
