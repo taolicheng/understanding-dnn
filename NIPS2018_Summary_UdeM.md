@@ -12,6 +12,10 @@
 ![](figs/NIPS2018/statistics_02.png)
 ![](figs/NIPS2018/statistics_03.png)
 
+![](figs/NIPS2018/wordcloud_0.png)
+
+
+
 ## Conference Map
 
 - Tutorials
