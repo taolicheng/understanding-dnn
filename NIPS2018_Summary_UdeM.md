@@ -18,11 +18,11 @@
 
 Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 
-- **Tutorials**
-- Talks: **Invited**, **Oral**, Spotlight
+- **Tutorials** (current trends)
+- Talks: **Invited**, **Oral**, Spotlight (cutting-edges)
 - Posters and Demonstrations
 - Sponsor Demonstrations
-- **Workshops**
+- **Workshops** (specific topics)
 
 ![](figs/NIPS2018/wordcloud_0.png)
 
