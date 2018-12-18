@@ -26,6 +26,11 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 
 ![](figs/NIPS2018/wordcloud_0.png)
 
+2018 Trends: ![](https://placehold.it/150/ffffff/c5f015?text=Complex DL applications)
+![](https://placehold.it/150/ffffff/c5f015?text=Reinforcement Learning)
+![](https://placehold.it/150/ffffff/c5f015?text=Causal Learning)
+![](https://placehold.it/150/ffffff/c5f015?text=Human-AI)
+
 ## Tutorials
 
 General trends **keywords**:  ![](https://placehold.it/150/ffffff/c5f015?text=Rubustness)  ![](https://placehold.it/150/ffffff/c5f015?text=Bayesian)  ![](https://placehold.it/150/ffffff/c5f015?text=Unsupervised) ![](https://placehold.it/150/ffffff/c5f015?text=Automatic)
