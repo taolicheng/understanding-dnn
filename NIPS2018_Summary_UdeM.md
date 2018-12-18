@@ -40,7 +40,7 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 -----
 ![](figs/NIPS2018/tuto_robust_4.png)
 
-- Unsupervised Learning [[slides1](https://media.neurips.cc/Conferences/NIPS2018/Slides/Deep_Unsupervised_Learning.pdf), [slides2](https://media.neurips.cc/Conferences/NIPS2018/Slides/graves-deeplearning2.pdf)]
+- Unsupervised Learning [[slides1](https://media.neurips.cc/Conferences/NIPS2018/Slides/Deep_Unsupervised_Learning.pdf), [slides2](https://media.neurips.cc/Conferences/NIPS2018/Slides/graves-deeplearning2.pdf)], [[video](https://www.youtube.com/watch?v=rjZCjosEFpI)]
 
 ![](figs/NIPS2018/tuto_unsupervised_1.png)
 ![](figs/NIPS2018/tuto_unsupervised_2.png)
@@ -54,9 +54,7 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 ![](figs/NIPS2018/tuto_unsupervised_10.png)
 ![](figs/NIPS2018/tuto_unsupervised_11.png)
 
-
-
-- Automatic ML
+- Automatic ML [[video](https://www.youtube.com/watch?v=0eBR8a4MQ30), [website](https://www.automl.org/)]
 
 
 - Statistical Learning
