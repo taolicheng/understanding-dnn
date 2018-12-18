@@ -78,6 +78,9 @@ General trends **keywords**:  ![](https://placehold.it/150/ffffff/c5f015?text=Ru
 
 
 - Michael Levin: **What Bodies Think About: Bioelectric Computation Outside the Nervous System, Primitive Cognition, and Synthetic Morphology**, [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/Levin_bioelectric_computation.pdf)
+
+![](figs/NIPS2018/levin_0.png)
+
 - Joelle Pineau: **Reproducible, Reusable, and Robust Reinforcement Learning**, [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/jpineau-NeurIPS-dec18-fb.pdf)
 
 
