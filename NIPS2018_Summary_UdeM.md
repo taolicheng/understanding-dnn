@@ -74,6 +74,8 @@
 
 ## Workshop Highlights
 
+### Interpretability and Robustness in Audio, Speech, and Language [[website]](https://irasl.gitlab.io/)
+* Mike Schuster, “Learning from the move to neural machine translation at Google”
 
 ## NeurIPS2018 4 LHC Physics
 
