@@ -129,8 +129,11 @@ name: highlights
 
 - Michael Levin: **What Bodies Think About: Bioelectric Computation Outside the Nervous System, Primitive Cognition, and Synthetic Morphology**, [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/Levin_bioelectric_computation.pdf)
 
+<iframe width="560" height="315" src="https://youtube.com/embed/RjD1aLm4Thg" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+---
 ![](figs/NIPS2018/levin_0.png)
 
+---
 - Joelle Pineau: **Reproducible, Reusable, and Robust Reinforcement Learning**, [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/jpineau-NeurIPS-dec18-fb.pdf)
 
 
