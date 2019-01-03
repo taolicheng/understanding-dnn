@@ -1,20 +1,50 @@
+class: left, middle
+
 # [NeurIPS 2018](https://nips.cc) Summary Report
 
 * [Overview and Statistics](#overview-and-statistics)
 * [Conference Map](#conference-map)
 * [Tutorials](#tutorials)
 * [Highlights](#highlights)
-* [Wisdom](#neurIPS2018-wisdom)
+* [Wisdom](#neurips2018-wisdom)
+
+---
+name: overview-and-statistics
 
 ## Overview and Statistics
+--
 
+.grid[
+.col-1-2[
 ![](figs/NIPS2018/statistics_00.png)
+]
+.col-1-2[
 ![](figs/NIPS2018/statistics_00'.png)
+]
+]
+
+---
+count:pause
+
+template: overview-and-statistics
+
+.grid[
+.col-1-2[
 ![](figs/NIPS2018/statistics_02.png)
+]
+.col-1-2[
 ![](figs/NIPS2018/statistics_03.png)
+]
+]
+
+---
+count: pause
+template: overview-and-statistics
+
 ![](figs/NIPS2018/statistics_01.png)
 
-
+---
+name: conference-map
 ## Conference Map
 
 Conference Schedule: https://nips.cc/Conferences/2018/Schedule
@@ -25,33 +55,51 @@ Conference Schedule: https://nips.cc/Conferences/2018/Schedule
 - Sponsor Demonstrations
 - **Workshops** (specific topics)
 
+---
+
+.grid[
+
+.col-1-4[
+###2018 Trends
+
+- Complex DL applications
+- Reinforcement Learning
+- Causal Learning
+- Human and AI (human in the loop, neuronal networks)
+]
+.col-3-4[
 ![](figs/NIPS2018/wordcloud_0.png)
+]
+]
 
-:large_blue_circle: 2018 Trends: Complex DL applications, Reinforcement Learning, Causal Learning, Human and AI (human in the loop, neuronal networks)
-
+---
+name: tutorials
 ## Tutorials
 
-General trends **keywords**:  ![](https://placehold.it/150/ffffff/c5f015?text=Rubustness)  ![](https://placehold.it/150/ffffff/c5f015?text=Bayesian)  ![](https://placehold.it/150/ffffff/c5f015?text=Unsupervised) ![](https://placehold.it/150/ffffff/c5f015?text=Automatic)
+<!--General trends **keywords**:  ![](https://placehold.it/150/ffffff/c5f015?text=Rubustness)  ![](https://placehold.it/150/ffffff/c5f015?text=Bayesian)  ![](https://placehold.it/150/ffffff/c5f015?text=Unsupervised) ![](https://placehold.it/150/ffffff/c5f015?text=Automatic)
+-->
 
-<br><br>
+General trend **Keywords**: _Robustness_, _Bayesian_, _Unsupervised_, _Automatic_
+
+--
 
 - Adversarial Robustness [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/adversarial_ml_slides_parts_1_4.pdf)
 ![](figs/NIPS2018/tuto_robust_0.png)
------
+---
 ![](figs/NIPS2018/tuto_robust_0'.png)
------
+---
 ![](figs/NIPS2018/tuto_robust_0''.png)
------
+---
 ![](figs/NIPS2018/tuto_robust_1.png)
------
+---
 ![](figs/NIPS2018/tuto_robust_2.png)
------
+---
 ![](figs/NIPS2018/tuto_robust_3.png)
------
+---
 ![](figs/NIPS2018/tuto_robust_4.png)
 
-<br><br>
 
+---
 - Unsupervised Learning [[slides1](https://media.neurips.cc/Conferences/NIPS2018/Slides/Deep_Unsupervised_Learning.pdf), [slides2](https://media.neurips.cc/Conferences/NIPS2018/Slides/graves-deeplearning2.pdf)], [[video](https://www.youtube.com/watch?v=rjZCjosEFpI)]
 
 ![](figs/NIPS2018/tuto_unsupervised_1.png)
@@ -67,13 +115,15 @@ General trends **keywords**:  ![](https://placehold.it/150/ffffff/c5f015?text=Ru
 ![](figs/NIPS2018/tuto_unsupervised_11.png)
 
 <br><br>
-
+---
 - Automatic ML [[video](https://www.youtube.com/watch?v=0eBR8a4MQ30), [website](https://www.automl.org/)]
 
 
 - Statistical Learning
 
 
+---
+name: highlights
 ## Highlights
 
 
@@ -84,6 +134,7 @@ General trends **keywords**:  ![](https://placehold.it/150/ffffff/c5f015?text=Ru
 - Joelle Pineau: **Reproducible, Reusable, and Robust Reinforcement Learning**, [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/jpineau-NeurIPS-dec18-fb.pdf)
 
 
+---
 ## Excerpts of Highlight Presentations
 ~ 30/15/7
 
@@ -126,16 +177,21 @@ General trends **keywords**:  ![](https://placehold.it/150/ffffff/c5f015?text=Ru
 
 \[tags: information theory, representation and interpretaion, \]
 
+---
+name: workshop-highlights
 ## Workshop Highlights
 
 ### Interpretability and Robustness in Audio, Speech, and Language [[website]](https://irasl.gitlab.io/)
 * Mike Schuster, “Learning from the move to neural machine translation at Google”
 
+---
+name: neurips2018-4-lhc-physics
 ## NeurIPS2018 4 LHC Physics
 
 ### Anomaly Detection
 
-
+---
+name: neurips2018-wisdom
 ## NeurIPS2018 Wisdom
 
 > “Machine Learning can make pigs fly” – Aleksander Madry
