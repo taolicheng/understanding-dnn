@@ -16,12 +16,14 @@
  .footnote {
  position: absolute;
  bottom: 3em;
+ right: 5em;
  }
  li p { line-height: 1.25em; }
  .red { color: #fa0000; }
  .large { font-size: 2em; }
  a, a > code {
- color: rgb(249, 38, 114);
+ /*color: rgb(249, 38, 114);*/
+ color: rgb(96, 143, 159);
  text-decoration: none;
  }
  code {
@@ -109,3 +111,52 @@
  padding-top: 1em;
  }
  
+
+em{
+   color: rgb(237,222,139);
+}
+strong{
+   color: rgb(251,178,23);
+}
+
+.width-10 * {
+    width: 10%;
+}
+
+.width-20 * {
+    width: 20%;
+}
+
+.width-30 * {
+    width: 30%;
+}
+
+.width-40 * {
+    width: 40%;
+}
+
+.width-50 * {
+    width: 50%;
+}
+
+.width-60 * {
+    width: 60%;
+}
+
+.width-70 * {
+    width: 70%;
+}
+
+.width-80 * {
+    width: 80%;
+}
+
+.width-90 * {
+    width: 90%;
+}
+
+.width-100 * {
+    width: 100%;
+}
+
+
