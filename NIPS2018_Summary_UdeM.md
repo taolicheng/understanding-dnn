@@ -1,7 +1,10 @@
 <!-- https://taolicheng.github.io/understanding-dnn/?p=NIPS2018_Summary_UdeM.md#1  -->
+
 class: left, middle, inverse
 
-# [NeurIPS 2018](https://nips.cc) [[Summary Report]](https://taolicheng.github.io/understanding-dnn/?p=NIPS2018_Summary_UdeM.md#1)
+[*click here to see the slides*](https://taolicheng.github.io/understanding-dnn/?p=NIPS2018_Summary_UdeM.md#1)
+
+# [NeurIPS 2018](https://nips.cc) Summary Report
 
 * [Overview and Statistics](#overview-and-statistics)
 * [Conference Map](#conference-map)
@@ -10,6 +13,7 @@ class: left, middle, inverse
 * [Wisdom](#neurips2018-wisdom)
 
 .footnote[{Taoli Cheng}]
+
 ---
 name: overview-and-statistics
 
