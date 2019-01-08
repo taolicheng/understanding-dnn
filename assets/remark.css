@@ -24,7 +24,7 @@
  a, a > code {
  /*color: rgb(249, 38, 114);*/
  color: rgb(96, 143, 159);
- text-decoration: none;
+ text-decoration: underline;
  }
  code {
  background: #e7e8e2;

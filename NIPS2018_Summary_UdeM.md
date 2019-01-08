@@ -219,7 +219,8 @@ class: middle, center
 
 **pre-neural decision making in bioelectrical system** --> **robust new AI approach**/*Adaptive Learning*
   
-
+.footnote[*factorization in bio-systems
+]
 ---
 ### Joelle Pineau: **Reproducible, Reusable, and Robust Reinforcement Learning**, [[slides]](https://media.neurips.cc/Conferences/NIPS2018/Slides/jpineau-NeurIPS-dec18-fb.pdf)
 
@@ -425,13 +426,15 @@ name: workshop-highlights
 ]
 
 .pull-right[
-- causal confounding
+- causal confounding (example: [Causal Confusion in Imitation Learning](https://drive.google.com/file/d/1EP-ODIgy1rpGzlw8YfUkW3JxjXAi_qWe/view))
+   
+  .width-80[![](figs/NIPS2018/causal_confusion.png)]
+
 - causal invariance
 - counterfactual reasoning
 - ...
 
 ]
-
 
 ---
 .width-100[
@@ -442,8 +445,11 @@ name: workshop-highlights
 ![](figs/NIPS2018/causal_1.png)]
 
 ---
-#### Example: Woulda, coulda, shoulda: Counterfactually-guided policy search
+#### Example: **Woulda, coulda, shoulda: Counterfactually-guided policy search**, [[pdf]](https://drive.google.com/file/d/16ivnqLb2P_N3zY3TopNKQ1OZtIgFzp8z/view)
 
+reasoning on unhappened cases -> help with decision making
+
+.width-80.center[![](figs/NIPS2018/counterfactural_results.png)]
 
 ---
 template: workshop-highlights
@@ -453,6 +459,9 @@ template: workshop-highlights
 
 .width-80.center[
 ![](figs/NIPS2018/schuster_0.png)]
+
+---
+## Summary of the Summary
 
 ---
 class: middle, center, inverse
