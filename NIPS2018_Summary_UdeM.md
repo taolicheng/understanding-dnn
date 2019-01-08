@@ -441,6 +441,15 @@ name: workshop-highlights
 ![](figs/NIPS2018/causal_0.png)]
 
 ---
+.width-80.center[
+![](figs/NIPS2018/causal_000.png)]
+
+---
+.width-100[
+![](figs/NIPS2018/causal_00.png)]
+
+
+---
 .width-100[
 ![](figs/NIPS2018/causal_1.png)]
 
