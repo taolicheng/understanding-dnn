@@ -13,6 +13,7 @@
 
 # Conferences
 
+* [Uncertainty and Robustness in Deep Learning, ICML2019 Workshop](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=3514)
 * [ICLR2019](https://iclr.cc/)
 * [NeurIPS2018](https://nips.cc/Conferences/2018) [[Summary Notes]](https://taolicheng.github.io/understanding-dnn/?p=NIPS2018_Summary_UdeM.md)
   * *Workshop* [Bayesian Deep Learning](http://bayesiandeeplearning.org/)
